@@ -1,0 +1,43 @@
+#sect {
+    font-size: 20px;
+    background-color: white;
+    border-right-width: 1000px;
+    padding: 0px
+  }
+  
+  body {
+    color: rgb(18, 20, 18);
+    text-align: left;
+    width: max-content;
+    background-color: rgb(28, 218, 53);
+    text-align: center;
+    margin: 0 auto;
+  }
+  
+  ul {
+    max-width: 500px;
+  }
+  
+  .paragraph {
+    max-width: 500px
+  }
+  
+  .t {
+    background-color: rgb(30, 180, 50);
+    border-right: 200px solid;
+    border-right-color: rgb(16, 141, 16);
+  }
+  .contacts {
+    font-size: 20px;
+  }
+  
+  .git{
+    color:white;
+  }
+  
+  h2 {
+  padding: 0px 200px;
+  }
+  .name {
+    padding: 0px 200px;
+  }
